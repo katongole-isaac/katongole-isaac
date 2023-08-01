@@ -1,11 +1,9 @@
 ## Isaac
-<div>
-<small style="display:block;" > - I'm Isaac, a fullstack developer - MERN </small>
-<small style="display:block;" > - Proficient in developing user interfaces using Reactjs and Nextjs </small>
-<small style="display:block;" >- Proficient in using with Nodejs & MongoDB </small>
-<small style="display:block;" >- Like tailwindcss by default, lol </small>
+ - I'm Isaac, a fullstack developer - MERN 
+ - Proficient in developing user interfaces using Reactjs and Nextjs 
+- Proficient in using with Nodejs & MongoDB 
+- Likes tailwindcss by default, lol 
 
-</div>
 
 ## Languages & tools
 
