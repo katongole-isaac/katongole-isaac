@@ -1,7 +1,11 @@
-## Isaac Katongole
+## Isaac
+<div>
+<small style="display:block;" > - I'm Isaac, a fullstack developer - MERN </small>
+<small style="display:block;" > - Proficient in developing user interfaces using Reactjs and Nextjs </small>
+<small style="display:block;" >- Proficient in using with Nodejs & MongoDB </small>
+<small style="display:block;" >- Like tailwindcss by default, lol </small>
 
-I'm Isaac, a frontend developer specializing in using javascript to develop web apps. I develop frontend in reactjs and backend in Nodejs with experience of 3 years.
-I also use CMS like wordpress with theme builders like elementor to speed up website development.
+</div>
 
 ## Languages & tools
 
