@@ -1,51 +1,19 @@
-## Isaac
- - I'm Isaac, a fullstack developer - MERN 
- - Proficient in developing user interfaces using Reactjs and Nextjs 
-- Proficient in using with Nodejs & MongoDB 
-- Likes tailwindcss by default, lol 
+##
 
+👋 Hi there! I'm [Isaac Katongole](https://www.linkedin.com/in/katongole-isaac-7a22aa178 "linkedIn") a passionate and result-driven frontend developer with expertise in Reactjs, Nextjs for 4 years and I love working on projects from scratch. 
 
-## Languages & tools
+So far, with 4 years of experience, I have managed to improve on my coding skills from the way i structure the projects, using version controls like git to manage code branches, integrating third party services, deploying on hosting platform, working with databases, dockerizing application.
 
-<img align="left" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux_svg" />
+I have worked with a few teams (both local and remote) as frontend developer mainly using reactjs for building user interfaces for websites and web apps. 
 
-<img  align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git_svg" />
-          
-<img align="left" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript-svg" />
+The side-hustles I do here force me to work on both frontend and backend to survive otherwise I would end up with nothing. For the backend, I use [Nodejs](https://nodejs.org "Nodejs") my favorite.
 
-<img  align="left" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react_svg" />
+Please don't hesitate to reach out, I may be the missing part in your software developer team. I'm available to work with any team across world.
 
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux_svg" />
-          
+You can hire me on [upwork](https://upwork.com/freelancers/katongolei?mp_source=share "Upwork")
 
-<img align="left" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node_svg" />
+We can become friends on:
 
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDB_svg" />
-
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-          
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
- <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css_svg" />
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="Wordpress_svg" />
-          
-
-### Contact Me
-
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin_svg" />](https://www.linkedin.com/in/katongole-isaac-7a22aa178 "linkedIn")
-
-[<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/katongoleisaac_ "twitter")
-
-
-## Stats
-![Isaac Github stats](https://github-readme-stats.vercel.app/api?username=katongole-isaac&show_icons=true&theme=gruvbox)
-          
-
-## Others
-
-<a href="https://www.buymeacoffee.com/codewithisaac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
-
-          
+- [Twitter or X ](https://twitter.com/1katongoleisaac/ "twitter or X")
+- [linkedIn](https://www.linkedin.com/in/katongole-isaac/ "Linkedin")
+- [My Email](mailto:katongolelsaac78@gmail.com "Isaac Katongole")
