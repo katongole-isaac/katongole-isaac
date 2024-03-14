@@ -17,3 +17,5 @@ We can become friends on:
 - [Twitter or X ](https://twitter.com/1katongoleisaac/ "twitter or X")
 - [linkedIn](https://www.linkedin.com/in/katongole-isaac/ "Linkedin")
 - [My Email](mailto:katongolelsaac78@gmail.com "Isaac Katongole")
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katongole-isaac&hide_progress=true)
