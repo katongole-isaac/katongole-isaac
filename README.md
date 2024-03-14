@@ -44,8 +44,12 @@
 
 ## Others
 
+![](https://komarev.com/ghpvc/?username=katongole-isaac)
+
 <a href="https://www.buymeacoffee.com/codewithisaac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katongole-isaac&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katongole-isaac&layout=compact)
 
-          
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katongole-isaac&hide_progress=true)
