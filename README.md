@@ -8,38 +8,43 @@ When I’m not coding, you’ll find me exploring new tech trends, diving into o
 
 Let’s connect and build something awesome together! 🚀
 
-## 🛠️ Tech Stack
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/katongole-isaac&title=Profile%20Views)
 
-### Frontend
+### 🛠️ Tech Stack
+
+#### Frontend
 
 - **Frameworks & Libraries**: Nextjs, React.js
 - **Styling**: Tailwind CSS, SASS, Bootstrap
 - **State Management**: Redux
 
-### Backend
+#### Backend
 
 - **Languages**: Typescript
 - **Frameworks**: Nodejs (Express)
 - **Databases**: MongoDB, MySQL
 
-### DevOps & Tools
+#### DevOps & Tools
 
 - **Containerization**: Docker, Docker Compose
 - **Version Control**: Git, GitHub, GitLab
 - **Testing**: Jest
 - **CI/CD**: GitHub Actions
 
-## 📈 Currently Learning
+### 📈 Currently Learning
 
 Expanding my knowledge in **GraphQL** and **Kubernetes** to build even more efficient and containerized applications.
 
-## 🌱 Open to Collaborate
+### 🌱 Open to Collaborate
 
-I enjoy working on open-source projects and collaborating with other developers. If you have any interesting projects, feel free to reach out!
+I enjoy working on open-source projects and collaborating with other developers. If you have any interesting projects, feel free to reach out!  
 
-## 📫 Connect with Me
+### Connect with Me
 
-- GitHub: [github.com/katongole-isaac](https://github.com/katongole-isaac)
-- LinkedIn: [linkedin.com/in/katongole-isaac](https://linkedin.com/in/katongole-isaac)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/katongole-isaac)
 
 Thanks for stopping by! 🚀
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katongole-isaac&show_icons=true&theme=dark)
+
+
