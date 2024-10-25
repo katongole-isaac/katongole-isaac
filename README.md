@@ -8,9 +8,9 @@ When I’m not coding, you’ll find me exploring new tech trends, diving into o
 
 Let’s connect and build something awesome together! 🚀
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/katongole-isaac&title=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=katongole-isaac&style=for-the-badge&abbreviated=true)
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 #### Frontend
 
